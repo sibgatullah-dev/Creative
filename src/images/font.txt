@@ -1,0 +1,12 @@
+<i class="fa-solid fa-layer-group"></i>
+<i class="fa-brands fa-codepen"></i>
+<i class="fa-solid fa-money-bill-trend-up"></i>
+<i class="fa-regular fa-object-ungroup"></i>
+<i class="fa-solid fa-cubes"></i>
+<i class="fa-solid fa-object-group"></i>
+
+
+
+
+
+npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
